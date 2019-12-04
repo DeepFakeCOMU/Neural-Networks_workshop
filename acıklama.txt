@@ -1,0 +1,6 @@
+x bir matris icinde future"lar var (sütunlar ) her sütun için bir input düğmese gerek 
+yani x [[1,2,3]   için 3 tane giriş ve 4 ( kişi, ev, araba, ...vs) var satırlar nesne temsil eder sütun ise  nesnenin özellikleridir
+        [4,5,6]
+        [7,8,9]
+        [10,11,12]]  
+    
